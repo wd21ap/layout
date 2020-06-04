@@ -1,2 +1,2 @@
-# layout
-Layout template for web app
+# UX design
+Fundamental layout template for web app
